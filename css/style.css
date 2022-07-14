@@ -1,0 +1,115 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  padding-left: 5%;
+  margin-top: 150px;
+}
+
+.home-page {
+  display: flex;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(250, 234, 236);
+}
+
+.half-width {
+  width: 50%;
+  padding-left: 5%;
+  border-radius: 5px;
+}
+
+.half-width img {
+  width: 80%;
+}
+
+.button {
+  color: white;
+  background-color: orange;
+  border-radius: 3px;
+  padding: 10px;
+  font-size: bold;
+  text-decoration: none;
+}
+
+.categorie {
+  color: white;
+  display: flex;
+  font-size: 1.5rem;
+  width: 300px;
+  padding: 20px;
+
+  border-radius: 5px;
+}
+.categories {
+  display: flex;
+  justify-content: space-between;
+}
+
+.watch {
+  background-color: rgb(221, 221, 37);
+}
+
+.bag {
+  background-color: lightseagreen;
+}
+.shoes {
+  background-color: green;
+}
+.categories img {
+  width: 40%;
+  padding-left: 80px;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+}
+
+.shoe {
+  width: 300px;
+  height: 450px;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 30px 90px;
+  padding-left: 10px;
+}
+
+h2 {
+  font-size: 1.25rem;
+}
+
+.card img {
+  width: 100%;
+}
+
+.bags {
+  width: 300px;
+  height: 550px;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 30px 90px;
+  padding-left: 10px;
+}
+
+.subscribe {
+  background-color: rgb(240, 204, 209);
+}
+
+.subscribe-section {
+  text-align: center;
+  padding: 100px;
+  margin-top: 100px;
+}
+
+.email {
+  background-color: lightcyan;
+  border: none;
+  padding: 10px;
+}
+
+footer {
+  font-size: 15px;
+  text-align: center;
+  margin-top: 50px;
+}
